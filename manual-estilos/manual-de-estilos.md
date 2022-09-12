@@ -1,7 +1,8 @@
 # Manual de estilos
 
-| ⚠️ | Este documento está en proceso de revisión. Si encuentras alguna errata o incorrección, te agradeceremos que nos lo hagas saber contactando con el responsable de este proyecto (@anagavilan) a través del canal de [Marketing](https://wpes.slack.com/archives/C2MA1HA20) en Slack. <br><br>Gracias por interesarte en el proyecto. |
-|---|---|
+| ⚠️ | Este documento está en proceso de elaboración. Ten en cuenta que es probable que encuentres incorrecciones y/o información errónea u obsoleta puesto que es un borrador. <br><br>Te avisaremos cuando esté listo. <br><br>Si tienes alguna sugerencia o aportación, te agradeceremos que nos lo hagas saber **contactando con el responsable de este proyecto (@anagavilan) a través del canal de [Marketing](https://wpes.slack.com/archives/C2MA1HA20) en Slack**. Gracias por interesarte en el proyecto. | 
+|-----------|--|
+
 
 ## Objetivos
 
